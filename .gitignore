@@ -1,0 +1,12 @@
+.env
+.venv
+.idea
+in.txt
+test.txt
+aoget.cmd
+aot.cmd
+aoc.cmd
+f.py
+f.py.stub
+advent.py
+get-input.py
