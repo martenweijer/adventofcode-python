@@ -117,7 +117,6 @@ def run(boost=0):
 
 print(max(run(0)))
 
-# print(run(34))
 boost=0
 v=0
 while v==0:
